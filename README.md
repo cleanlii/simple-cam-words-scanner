@@ -1,0 +1,1 @@
+# simple-cam-words-scanner
